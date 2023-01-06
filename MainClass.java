@@ -6,7 +6,7 @@ public class MainClass {
 		
 		Student s = new Student();
 		
-		s.name = "È«±æµ¿";
+		s.name = "성춘향";
 		s.ban = 1;
 		s.num = 1;
 		s.kor = 100;
